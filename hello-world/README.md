@@ -6,7 +6,7 @@ This is a basic Hello World program, created for combined use of Visual Studio C
 
 Here is a demo of my software!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World! (Python/VS Code Demonstration)](https://youtu.be/O_HIxvlCxD8)
 
 # Development Environment
 
