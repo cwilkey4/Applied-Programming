@@ -1,32 +1,19 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This was an attempt in learning some of the basics of JavaScript. I used event handlers, functions, and arrays throughout the course of this short program. A memory game seemed like a fun and visual learning approach, especially since most everything that was done had a clear impact on the end result.
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=q9AKOGt0lBU)
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used JavaScript, HTML, and CSS for this project.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [w3schools](https://www.w3schools.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I want to learn how to use more event handlers.
+- I need to work on making the most of commments and other forms of organization while programming in order to simplify my understanding of it, as well as making it easier for others to know what is happening. This is especially true when accessing multiple languages and files.
+- Though this doesn't directly relate to coding, I would like to learn to articulate myself more clearly during videos and presentations.
