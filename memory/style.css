@@ -1,0 +1,29 @@
+body {
+    display: grid;
+}
+
+.grid {
+    height: 580px;
+    width: 1020px; /*480px for 6*/
+    justify-self: center;
+    align-self: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 160px;
+    height: 290px;
+    background: rgb(190,238,174);
+    background: radial-gradient(circle, rgba(190,238,174,1) 0%, rgba(160,148,233,1) 100%); 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    border: 5px solid rgb(0, 0, 50);
+    border-radius: 5px;
+}
+
+
+/* Each Image:
+height: 290px;
+width: 160px; */
